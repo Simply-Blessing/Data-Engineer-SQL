@@ -2,9 +2,9 @@
 
 Analysis of the data engineer job market in 2023! This project explores **top-paying jobs**, **in-demand skills**, and identifies where **high demand meets high salary** for Data Engineer roles.
 
-SQL queries can be found here: [sql_queries](./sql_queries/)
-Results of each SQL query are here: [sql_results_json](./sql_results_json/)
-Data sourced from [Luke Barousse](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis)
+* SQL queries can be found here: [sql_queries](./sql_queries/)
+* Results of each SQL query are here: [sql_results_json](./sql_results_json/)
+* Data sourced from [Luke Barousse](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis)
 
 ---
 
