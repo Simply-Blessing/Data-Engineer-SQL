@@ -1,0 +1,182 @@
+[
+  {
+    "skill_id": 213,
+    "skills": "kubernetes",
+    "demand_count": "56",
+    "avg_salary": "158190"
+  },
+  {
+    "skill_id": 94,
+    "skills": "numpy",
+    "demand_count": "14",
+    "avg_salary": "157592"
+  },
+  {
+    "skill_id": 63,
+    "skills": "cassandra",
+    "demand_count": "19",
+    "avg_salary": "151282"
+  },
+  {
+    "skill_id": 98,
+    "skills": "kafka",
+    "demand_count": "134",
+    "avg_salary": "150549"
+  },
+  {
+    "skill_id": 27,
+    "skills": "golang",
+    "demand_count": "11",
+    "avg_salary": "147818"
+  },
+  {
+    "skill_id": 212,
+    "skills": "terraform",
+    "demand_count": "44",
+    "avg_salary": "146057"
+  },
+  {
+    "skill_id": 93,
+    "skills": "pandas",
+    "demand_count": "38",
+    "avg_salary": "144656"
+  },
+  {
+    "skill_id": 59,
+    "skills": "elasticsearch",
+    "demand_count": "21",
+    "avg_salary": "144102"
+  },
+  {
+    "skill_id": 144,
+    "skills": "ruby",
+    "demand_count": "14",
+    "avg_salary": "144000"
+  },
+  {
+    "skill_id": 30,
+    "skills": "ruby",
+    "demand_count": "14",
+    "avg_salary": "144000"
+  },
+  {
+    "skill_id": 83,
+    "skills": "aurora",
+    "demand_count": "14",
+    "avg_salary": "142887"
+  },
+  {
+    "skill_id": 101,
+    "skills": "pytorch",
+    "demand_count": "11",
+    "avg_salary": "142254"
+  },
+  {
+    "skill_id": 3,
+    "skills": "scala",
+    "demand_count": "113",
+    "avg_salary": "141777"
+  },
+  {
+    "skill_id": 92,
+    "skills": "spark",
+    "demand_count": "237",
+    "avg_salary": "139838"
+  },
+  {
+    "skill_id": 95,
+    "skills": "pyspark",
+    "demand_count": "64",
+    "avg_salary": "139428"
+  },
+  {
+    "skill_id": 64,
+    "skills": "dynamodb",
+    "demand_count": "27",
+    "avg_salary": "138883"
+  },
+  {
+    "skill_id": 18,
+    "skills": "mongodb",
+    "demand_count": "32",
+    "avg_salary": "138569"
+  },
+  {
+    "skill_id": 62,
+    "skills": "mongodb",
+    "demand_count": "32",
+    "avg_salary": "138569"
+  },
+  {
+    "skill_id": 96,
+    "skills": "airflow",
+    "demand_count": "151",
+    "avg_salary": "138518"
+  },
+  {
+    "skill_id": 4,
+    "skills": "java",
+    "demand_count": "139",
+    "avg_salary": "138087"
+  },
+  {
+    "skill_id": 97,
+    "skills": "hadoop",
+    "demand_count": "98",
+    "avg_salary": "137707"
+  },
+  {
+    "skill_id": 17,
+    "skills": "typescript",
+    "demand_count": "19",
+    "avg_salary": "137207"
+  },
+  {
+    "skill_id": 2,
+    "skills": "nosql",
+    "demand_count": "93",
+    "avg_salary": "136430"
+  },
+  {
+    "skill_id": 6,
+    "skills": "shell",
+    "demand_count": "34",
+    "avg_salary": "135499"
+  },
+  {
+    "skill_id": 185,
+    "skills": "looker",
+    "demand_count": "30",
+    "avg_salary": "134614"
+  },
+  {
+    "skill_id": 80,
+    "skills": "snowflake",
+    "demand_count": "202",
+    "avg_salary": "134373"
+  },
+  {
+    "skill_id": 12,
+    "skills": "bash",
+    "demand_count": "25",
+    "avg_salary": "134315"
+  },
+  {
+    "skill_id": 214,
+    "skills": "docker",
+    "demand_count": "64",
+    "avg_salary": "134286"
+  },
+  {
+    "skill_id": 81,
+    "skills": "gcp",
+    "demand_count": "76",
+    "avg_salary": "133388"
+  },
+  {
+    "skill_id": 211,
+    "skills": "jenkins",
+    "demand_count": "26",
+    "avg_salary": "133017"
+  }
+]

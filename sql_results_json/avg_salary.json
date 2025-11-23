@@ -1,0 +1,122 @@
+[
+  {
+    "avg_salary": "192500",
+    "skills": "assembly"
+  },
+  {
+    "avg_salary": "182223",
+    "skills": "mongo"
+  },
+  {
+    "avg_salary": "176250",
+    "skills": "ggplot2"
+  },
+  {
+    "avg_salary": "172819",
+    "skills": "rust"
+  },
+  {
+    "avg_salary": "170867",
+    "skills": "clojure"
+  },
+  {
+    "avg_salary": "169000",
+    "skills": "perl"
+  },
+  {
+    "avg_salary": "166559",
+    "skills": "neo4j"
+  },
+  {
+    "avg_salary": "166250",
+    "skills": "solidity"
+  },
+  {
+    "avg_salary": "162547",
+    "skills": "graphql"
+  },
+  {
+    "avg_salary": "160500",
+    "skills": "julia"
+  },
+  {
+    "avg_salary": "160397",
+    "skills": "splunk"
+  },
+  {
+    "avg_salary": "160333",
+    "skills": "bitbucket"
+  },
+  {
+    "avg_salary": "159000",
+    "skills": "zoom"
+  },
+  {
+    "avg_salary": "158190",
+    "skills": "kubernetes"
+  },
+  {
+    "avg_salary": "157592",
+    "skills": "numpy"
+  },
+  {
+    "avg_salary": "157500",
+    "skills": "fastapi"
+  },
+  {
+    "avg_salary": "157500",
+    "skills": "mxnet"
+  },
+  {
+    "avg_salary": "157000",
+    "skills": "redis"
+  },
+  {
+    "avg_salary": "155000",
+    "skills": "trello"
+  },
+  {
+    "avg_salary": "151667",
+    "skills": "jquery"
+  },
+  {
+    "avg_salary": "151636",
+    "skills": "express"
+  },
+  {
+    "avg_salary": "151282",
+    "skills": "cassandra"
+  },
+  {
+    "avg_salary": "151000",
+    "skills": "unify"
+  },
+  {
+    "avg_salary": "150549",
+    "skills": "kafka"
+  },
+  {
+    "avg_salary": "150000",
+    "skills": "vmware"
+  },
+  {
+    "avg_salary": "148698",
+    "skills": "keras"
+  },
+  {
+    "avg_salary": "148100",
+    "skills": "tensorflow"
+  },
+  {
+    "avg_salary": "147818",
+    "skills": "golang"
+  },
+  {
+    "avg_salary": "147021",
+    "skills": "angular"
+  },
+  {
+    "avg_salary": "146057",
+    "skills": "terraform"
+  }
+]

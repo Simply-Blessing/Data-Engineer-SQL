@@ -1,0 +1,42 @@
+[
+  {
+    "skills": "sql",
+    "demand_count": "14213"
+  },
+  {
+    "skills": "python",
+    "demand_count": "13893"
+  },
+  {
+    "skills": "aws",
+    "demand_count": "8570"
+  },
+  {
+    "skills": "azure",
+    "demand_count": "6997"
+  },
+  {
+    "skills": "spark",
+    "demand_count": "6612"
+  },
+  {
+    "skills": "airflow",
+    "demand_count": "4329"
+  },
+  {
+    "skills": "snowflake",
+    "demand_count": "4053"
+  },
+  {
+    "skills": "java",
+    "demand_count": "3801"
+  },
+  {
+    "skills": "databricks",
+    "demand_count": "3716"
+  },
+  {
+    "skills": "kafka",
+    "demand_count": "3391"
+  }
+]
