@@ -64,7 +64,7 @@ LIMIT 10;
 - **Employers:** Companies like Engtal, Durlston Partners, and Twitch offer the highest salaries
 
 ![Bar graph of top salaries for data engineers](./plots/median_salary.png)
-_Median salary distribution for the top-paying Data Engineer roles._
+*Bar graph visualising the median salary for the top salaries for data engineers.*
 
 ---
 
@@ -101,7 +101,7 @@ ORDER BY salary_year_avg DESC;
 - Other skills show varying demand levels
 
 ![Bar graph of top salaries skills count](./plots/skill_count.png)
-_Count of skills for top-paying Data Engineer jobs._
+*Bar graph visualising the count of skills for the top paying jobs for data engineers.*
 
 ---
 
@@ -173,6 +173,8 @@ LIMIT 10;
 | GraphQL  | 162,547            |
 | Julia    | 160,500            |
 
+*Table of the average salary for the top paying skills for data engineers*
+
 ---
 
 ### 5️⃣ Most Optimal Skills to Learn
@@ -206,6 +208,8 @@ LIMIT 10;
 | Pandas        | 38           | 144,656            |
 | Elasticsearch | 21           | 144,102            |
 | Ruby          | 14           | 144,000            |
+
+*Table of the most optimal skills for data engineers sorted by salary*
 
 **Breakdown:**
 
